@@ -1,16 +1,12 @@
-### Hi there 👋
+<a href="https://www.linkedin.com/in/jomonjoshygeorge">
+<img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/LinkedIn.svg" width="40">
+</a>
+<a href="mailto:jomonjoshygeorge@gmail.com">
+<img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/Email.svg" width="40">
+</a>
+<a href="https://stackoverflow.com/users/14351818">
+<img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/StackOverflow.svg" width="40">
+</a>
 
-<!--
-**joafc96/joafc96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="#"><img src="https://komarev.com/ghpvc/?username=joafc96&color=5BBF0F&label=Profile%20Views"></a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
