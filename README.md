@@ -1,12 +1,9 @@
-<a href="https://www.linkedin.com/in/jomonjoshygeorge">
-<img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/LinkedIn.svg" width="40">
-</a>
-<a href="mailto:jomonjoshygeorge@gmail.com">
-<img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/Email.svg" width="40">
-</a>
-<a href="https://stackoverflow.com/users/14351818">
-<img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/StackOverflow.svg" width="40">
-</a>
+###  Hi I'm Jomon Joshy George 👋
 
-<a href="#"><img src="https://komarev.com/ghpvc/?username=joafc96&color=5BBF0F&label=Profile%20Views"></a>
+Young passionate about technology and software / apps development, content creator.
 
+Extensive knowledge in software development from Back to Front and its technologies, focused on Mobile development for personal projects and in the professional world.
+
+From a small town in the middle of Kerala to the World!
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jomonjoshygeorge/) ![](https://komarev.com/ghpvc/?username=joafc96&color=5BBF0F&abbreviated=true) 
