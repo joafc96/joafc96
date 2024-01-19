@@ -1,8 +1,8 @@
 ###  Hi, I'm Jomon Joshy George 👋
 
-Young passionate about technology and software / apps development, content creator.
+Young passionate about technology and software / apps development.
 
-Extensive knowledge in software development from Back to Front and its technologies, focused on Mobile development for personal projects and in the professional world.
+Extensive knowledge in software development from Back to Front and its technologies, focused on Mobile application development for personal projects and in the professional world.
 
 From a small town in the middle of Kerala to the World!
 
